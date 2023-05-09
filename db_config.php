@@ -1,6 +1,6 @@
 <?php
 $db_name = 'phpmyadmin'; // config de la BDD à ouvrir
-$db_host = 'localhost';
+$db_host = '127.0.0.1:3307';
 $db_user = 'root';
 $db_passwd = '';
 
