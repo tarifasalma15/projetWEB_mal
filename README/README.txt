@@ -2,3 +2,4 @@ Pour utiliser Mario Pizza dans les meilleures conditions, vous devrez placer le 
 Si vous ne parvenez pas à vous connecter à cause des restrictions, mettez en commentaire la ligne 73 du fichier login.php. Bonne utilisation.
 
 
+cckjc
